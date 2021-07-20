@@ -31,7 +31,12 @@ _The description is the short text that describes your project in the GitHub pro
 ```
 
 ### 4. Team admins (mandatory) 
-_Please name at least two colleagues who will contribute, modify, and maintain the project. They are also responsible for adding/removing team members and perform other administrative tasks. For example, if someone leaves SAP, they would be responsible for removing that person from the project. The list must contain github.com usernames only that [have linked their account with their SAP identity and joined the SAP organizations on GitHub](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Self-Service+for+Joining+an+SAP+GitHub+Organization). Since your response is parsed by a bot, please make sure to only respond the GitHub.com username separated by a space or a newline. Please also aware the Github.com usernames are case-sensitive. Members who are not working for SAP (i.e. who don't have a C-, D- or I-number) must be approved by the [SAP OSPO](https://github.wdf.sap.corp/ospo/ospo-request)._
+_Please name at least two colleagues who will contribute, modify, and maintain the project. They are also responsible for adding/removing team members and perform other administrative tasks. For example, if someone leaves SAP, they would be responsible for removing that person from the project. The list must contain github.com usernames only that [have linked their account with their SAP identity and joined the SAP organizations on GitHub](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Self-Service+for+Joining+an+SAP+GitHub+Organization). Since your response is parsed by a bot, please make sure to only use: 
+- the **github.com** username separated by a space or a newline
+- the **github.com** username is [linked with the respective SAP identity and joined the SAP organization](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Self-Service+for+Joining+an+SAP+GitHub+Organization)
+- **Don't use the internal D/C/I user!**
+
+Please also be aware that the Github.com usernames are case-sensitive. Members who are not working for SAP (i.e. who don't have a C-, D- or I-number) must be approved by the [SAP OSPO](https://github.wdf.sap.corp/ospo/ospo-request)._
 
 ```
 {your answer}
