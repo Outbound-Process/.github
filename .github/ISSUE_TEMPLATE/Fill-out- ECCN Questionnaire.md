@@ -16,7 +16,7 @@ The export control classification process is mandatory to ensure that export reg
 The violation of export control regulations can result not only in significant fines for SAP but also in criminal penalties for individuals responsible, especially if the submitter of a questionnaire submits incorrect information. Therefore, you should answer the following questions with care and truthfully.
 The following questions have to be answered considering all parts of the outbound open source contribution, including re-used SAP components, open source, or third-party components. 
 
-After the completion of this questionnaire, please reach out to [SAP Export Control Classification](ExportControlClassification@sap.com). The same address can also be used in case of any detailed questions regarding the process.
+After the completion of this questionnaire, please reach out to [SAP Export Control Classification](mailto:ExportControlClassification@sap.com). The same address can also be used in case of any detailed questions regarding the process.
 
 ## General Data
 
