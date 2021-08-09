@@ -15,7 +15,8 @@ SAP checks each delivery of software (physical delivery and electronic download)
 The export control classification process is mandatory to ensure that export regulations are fulfilled and all data in the determination of export regulations is collected for each mobile app. This process is necessary to ensure SAP does not violate export control regulations.
 The violation of export control regulations can result not only in significant fines for SAP but also in criminal penalties for individuals responsible, especially if the submitter of a questionnaire submits incorrect information. Therefore, you should answer the following questions with care and truthfully.
 The following questions have to be answered considering all parts of the outbound open source contribution, including re-used SAP components, open source, or third-party components. 
-If you have further questions, please contact: [DL CorpReq Export ControlClassification](mailto:DL_011000358700000876632011E@global.corp.sap)
+
+After the completion of this questionnaire, please reach out to [SAP Export Control Classification](ExportControlClassification@sap.com). The same address can also be used in case of any detailed questions regarding the process.
 
 ## General Data
 
