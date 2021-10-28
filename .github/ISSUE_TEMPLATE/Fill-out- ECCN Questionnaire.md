@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-@Requestor: Please fill out this ECCN Questionnaire. After completion, please send an e-mail to [SAP Export Control Classification](mailto:ExportControlClassification@sap.com) with a link to this questionnaire and assign the team @oss-eccn-team to this issue.
+@Requestor: Please fill out this ECCN Questionnaire. After completion, please send an e-mail to [SAP Export Control Classification](mailto:ExportControlClassification@sap.com) with a link to this questionnaire.
 
 # Export Control Classification Questionnaire for Outbound Open Source Contributions
 
