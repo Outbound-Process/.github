@@ -97,6 +97,12 @@ assignees: ''
 (Provide your answer here)
 ```
 
+### 3.3 Does, or is this component capable of, relying on, calling out to, or using any underlying Operating System, component, FOSS, product, firmware, hardware, etc. to perform encryption for it? 
+*This applies to data at rest, or data in transit (TLS/SSL is an example of data in transit). If this is the case, please specify the encryption type and purpose like that: "Yes – the encryption being called out is <enter the encryption type> and it is used for the following purpose <Enter the functional description of the cryptography> (e.g.; authentication only, encryption of data, SSL/TLS etc.)"*
+
+```
+(Provide your answer here)
+```
 
 &nbsp;
 
