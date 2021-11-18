@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-To create the private repository, some additional information is needed. Please fill out the form below and make sure to stick to the [publishing process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) (starting with task F1) and to adhere to the [publishing guidelines](https://wiki.wdf.sap.corp/wiki/display/ospodocs/OSS+Publishing+Guidelines).
+To create the private repository, some additional information is needed. Please fill out the form below (**please only edit it in the original post**, don't copy the content to a new comment or a new issue!) and make sure to stick to the [publishing process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) (starting with task F1) and to adhere to the [publishing guidelines](https://wiki.wdf.sap.corp/wiki/display/ospodocs/OSS+Publishing+Guidelines).
 
 ### 1. Organization for the repository
 _The organization that the repository will belong to. If you want to publish in an organization different from github.com/sap, the approval of the OSPO is required._
