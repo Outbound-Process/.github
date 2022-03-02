@@ -10,10 +10,10 @@ assignees: ''
 To create the private repository, some additional information is needed. Please fill out the form below (**please only edit it in the original post**, don't copy the content to a new comment or a new issue!) and make sure to stick to the [publishing process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) (starting with task F1) and to adhere to the [publishing guidelines](https://wiki.wdf.sap.corp/wiki/display/ospodocs/OSS+Publishing+Guidelines).
 
 ### 1. Organization for the repository
-_The organization that the repository will belong to. If you want to publish in an organization different from github.com/sap, the approval of the OSPO is required._
+_The organization that the repository will belong to. Mention the name of the organization. If you want to publish on github.com/sap organization then just answer sap, if you want to publish the project on github.com/sap-samples then just answer sap-samples._
 
 ```
-sap
+{your answer}
 ```
 
 ### 2. Project Name (mandatory)
@@ -30,8 +30,16 @@ _The description is the short text that describes your project in the GitHub pro
 {your answer}
 ```
 
-### 4. Team admins (mandatory) 
-_Please name at least two colleagues who will contribute, modify, and maintain the project. They are also responsible for adding/removing team members and perform other administrative tasks. For example, if someone leaves SAP, they would be responsible for removing that person from the project. The list must contain github.com usernames only that [have linked their account with their SAP identity and joined the SAP organizations on GitHub](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Self-Service+for+Joining+an+SAP+GitHub+Organization). Since your response is parsed by a bot, please make sure to only use: 
+### 4. Repository Topics (Optional)
+_Topics are labels, like metadata tags, that create subject-based connections between GitHub repositories. They help users understand the main subjects of the repository and help them discover your projects based on product, technology, type, etc._
+![image](https://github.wdf.sap.corp/storage/user/33731/files/58ca2200-9a3c-11ec-9894-57a10b555840)
+
+```
+{your answer}
+```
+
+### 5. Team admins (mandatory) 
+_Please name at least two colleagues who will contribute, modify, and maintain the project. They are also responsible for adding/removing team members and perform other administrative tasks. For example, if someone leaves SAP, they would be responsible for removing that person from the project. The list must contain github.com usernames only that [have linked their account with their SAP identity and joined the SAP organizations on GitHub](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Self-Service+for+Joining+an+SAP+GitHub+Organization). Since your response is parsed by a bot, please make sure to only use:_ 
 - the **github.com** username separated by a space or a newline
 - the **github.com** username is [linked with the respective SAP identity and joined the SAP organization](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Self-Service+for+Joining+an+SAP+GitHub+Organization)
 - **Don't use the internal D/C/I user!**
@@ -42,7 +50,7 @@ Please also be aware that the Github.com usernames are case-sensitive. Members w
 {your answer}
 ```
 
-### 5. Member in the organization (mandatory)
+### 6. Member in the organization (mandatory)
 _In order to assign the above accounts to the repository, they need to be members of the equivalent organization (1). You can find the [instruction](https://wiki.wdf.sap.corp/wiki/pages/viewpage.action?spaceKey=ospodocs&title=Self-Service+for+Joining+an+SAP+GitHub+Organization) here._
 
 - [ ] Yes, all accounts are members of the organization
