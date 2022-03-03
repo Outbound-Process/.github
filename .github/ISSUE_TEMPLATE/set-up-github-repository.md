@@ -10,7 +10,7 @@ assignees: ''
 To create the private repository, some additional information is needed. Please fill out the form below (**please only edit it in the original post**, don't copy the content to a new comment or a new issue!) and make sure to stick to the [publishing process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) (starting with task F1) and to adhere to the [publishing guidelines](https://wiki.wdf.sap.corp/wiki/display/ospodocs/OSS+Publishing+Guidelines).
 
 ### 1. Organization for the repository
-_The organization that the repository will belong to. Mention the name of the organization. If you want to publish on github.com/sap organization then just answer sap, if you want to publish the project on github.com/sap-samples then just answer sap-samples._
+_The GitHub organization that the repository will belong to. Our standard publishing organization is github.com/SAP. In this case, simply enter sap. If you want to publish the project on another organization, please enter the respective name. Please be aware that the organization needs to support our outbound process. See [our information about how to create an open source project](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) for currently supported organizations._
 
 ```
 {your answer}
