@@ -31,7 +31,7 @@ _The description is the short text that describes your project in the GitHub pro
 ```
 
 ### 4. Repository Topics (Optional)
-_Topics are labels, like metadata tags, that create subject-based connections between GitHub repositories. They help users understand the main subjects of the repository and help them discover your projects based on product, technology, type, etc._
+_Topics are labels, like metadata tags, that create subject-based connections between GitHub repositories. They help users understand the main subjects of the repository and help them discover your projects based on product, technology, type, etc. Please make sure that each topic is separated by a space or a newline._
 ![image](https://github.wdf.sap.corp/storage/user/33731/files/58ca2200-9a3c-11ec-9894-57a10b555840)
 
 ```
