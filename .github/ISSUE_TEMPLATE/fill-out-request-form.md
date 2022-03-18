@@ -32,7 +32,7 @@ assignees: ''
 (Provide your answer here)
 ```
 
-### 1.5 Provide your reasons for for open sourcing your project. What are the expected benefits for SAP?
+### 1.5 Provide your reasons for open sourcing your project. What are the expected benefits for SAP?
 ```
 (Provide your answer here)
 ```
