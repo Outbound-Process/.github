@@ -2,7 +2,7 @@
 name: Fill out request form
 about: Requestor is asked to fill out the request form
 title: Fill out request form
-labels: ''
+labels: form-v2
 assignees: ''
 
 ---
