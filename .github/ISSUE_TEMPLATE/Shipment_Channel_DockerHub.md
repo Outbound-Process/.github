@@ -2,7 +2,7 @@
 name: Publication to OSS Store Docker Hub
 about: OSPO asks NAAS to publish OSS project
 title: Publish to OSS Store Docker Hub
-labels: NAAS-OSS
+labels: ''
 assignees: ''
 
 ---

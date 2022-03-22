@@ -2,7 +2,7 @@
 name: Publication to OSS Store NuGet
 about: OSPO asks NAAS to publish OSS project
 title: Publish to OSS Store NuGet
-labels: NAAS-OSS
+labels: ''
 assignees: ''
 
 ---

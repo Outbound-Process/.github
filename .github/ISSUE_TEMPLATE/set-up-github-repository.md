@@ -2,7 +2,7 @@
 name: Set up Github repository
 about: Request the creation of a private repository in github.com/sap
 title: Set up Github repository
-labels: ''
+labels: form-v2
 assignees: ''
 
 ---
