@@ -8,7 +8,10 @@ assignees: ''
 ---
 
 # Open Source Contribution Request (not applicable to bug fixing and sample code)
-**Instructions:** **Complete this request form if you intend to create a new SAP open source project.** Make sure that you provide all required information. Attach the relevant documents (or provide links to them) as necessary, for example, a slide deck describing your business case. Be mindful that we cannot process your request if information is missing. Thank you in advance.
+**Instructions:** **Complete this request form if you intend to create a new SAP open source project.** Make sure that you provide all required information. Attach the relevant documents (or provide links to them) as necessary, for example, a slide deck describing your business case. Be mindful that we cannot process your request if information is missing. Thank you in advance. 
+
+**Important Notice** 
+If you wish to publish and host your repository on SAP-samples GitHub organisation then in section 1.2 - Please provide the approval of your L2 manager. For more details, please read the [guidelines](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Sample+Code).
 
 ## 1. General Data
 
