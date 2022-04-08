@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Open Source Contribution Request (not applicable to bug fixing and sample code)
+# Open Source Contribution Request (not applicable to bug fixing)
 **Instructions:** **Complete this request form if you intend to create a new SAP open source project.** Make sure that you provide all required information. Attach the relevant documents (or provide links to them) as necessary, for example, a slide deck describing your business case. Be mindful that we cannot process your request if information is missing. Thank you in advance. 
 
 **Important Notice** 
