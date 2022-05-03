@@ -13,7 +13,7 @@ This is to request publication to OSS Store **npm**.
 
 
 @Requestor: To be able to publish on [npm](https://www.npmjs.com/), it is required to have a PPMS FOSS entry for your open source project.
-To get this entry, please use the [Open Source Tool](https://open-source.mo.sap.corp/) and enter the data of your open source project via "request new". In case there are any delays with the PPMS FOSS entry creation, please let us know here in this issue. We will reach out via e-mail to 'DL GTLC Compliance Enablement' for follow-ups.
+To get this entry, please use the [Open Source Tool](https://open-source.tools.sap.corp/) and enter the data of your open source project via "request new". In case there are any delays with the PPMS FOSS entry creation, please let us know here in this issue. We will reach out via e-mail to 'DL GTLC Compliance Enablement' for follow-ups.
 
 Once this has been done, please fill out below form:
 
