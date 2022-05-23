@@ -112,9 +112,8 @@ sap
 &nbsp;
 
 
-## 4. Data Protection (valid for both, SAP and third-party projects): Does the project process personal data? 
+## 4. Data Protection (valid for both, SAP and third-party projects): Does the project process personal data?
+*If you answer yes, please get in touch with one of your data privacy/security contacts to check if the publication is OK. Please see the contact options here: https://wiki.wdf.sap.corp/wiki/pages/viewpage.action?pageId=1290737197. If that list doesn’t work for you, please see the list of global contacts here: https://wiki.wdf.sap.corp/wiki/display/PSSEC/Privacy  -->  "Organization and Responsibility"  -->  "SAP Product Security & Data Protection". For a definition of what personal data means see here: https://wiki.wdf.sap.corp/wiki/display/PSSEC/Privacy%20Impact%20Assessment*
 ```
-Please only answer with yes or no. If yes, please get in touch with one of the SAP Global Security contacts listed here:
-https://wiki.wdf.sap.corp/wiki/display/PSSEC/Privacy  -->  "Organization and Responsibility"  -->  "SAP Product Security & Data Protection".
-For a definition of what personal data means see here: https://wiki.wdf.sap.corp/wiki/display/PSSEC/Privacy%20Impact%20Assessment
+Please only answer with yes or no.
 ```
