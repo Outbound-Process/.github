@@ -9,8 +9,8 @@ assignees: ''
 
 To create the private repository, some additional information is needed. Please fill out the form below (**please only edit it in the original post**, don't copy the content to a new comment or a new issue!) and make sure to stick to the [publishing process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) (starting with task F1) and to adhere to the [publishing guidelines](https://wiki.wdf.sap.corp/wiki/display/ospodocs/OSS+Publishing+Guidelines).
 
-### 1. Repository Name (mandatory)
-_The repository name must have been approved beforehand by SAP Branding. A GitHub issue to initiate this request has already been assigned to you or was already completed. If you wish to publish your repository on SAP-samples then the repository name approval process is not required. You can find additional information such as [hints and guidelines for repository naming](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Hints+and+Guidelines+for+Project+Naming) and the [complete repository creation process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) on our Wiki page._
+### 1. Project Name (mandatory)
+_The project name must have been approved beforehand by SAP Branding. A GitHub issue to initiate this request has already been assigned to you or was already completed. If you wish to publish your repository on SAP-samples then the project name approval process is not required. You can find additional information such as [hints and guidelines for project naming](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Hints+and+Guidelines+for+Project+Naming) and the [complete project creation process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) on our Wiki page. Please enter the repository name as an answer below._
 
 ```
 {your answer}
