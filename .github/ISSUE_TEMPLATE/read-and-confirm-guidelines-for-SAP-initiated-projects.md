@@ -8,5 +8,5 @@ assignees: ''
 
 ---
 
-Please read the [Guidelines for SAP initiated Projects](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Guidelines+for+SAP-initiated+Open+Source+Projects) carefully and confirm that you did so via a comment to this issue.
+Please read the [Guidelines for SAP Initiated Projects](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Guidelines+for+SAP-initiated+Open+Source+Projects) carefully and confirm that you did so by writing a comment in this issue.
 Thanks!
