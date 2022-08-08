@@ -1,3 +1,10 @@
+---
+name: coDoc Support Request for External Collaboration
+about: ""
+title: coDoc Support Request for External Collaboration
+labels: ''
+assignees: ''
+---
 Dear colleague,
 
 The coDoc project enables collaboration with **external** developers on github.com. The project wants to scale-out the approach in 2022, with a focus on:
