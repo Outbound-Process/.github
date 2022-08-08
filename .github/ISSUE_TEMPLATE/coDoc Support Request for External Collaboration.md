@@ -1,6 +1,6 @@
 ---
 name: coDoc Support Request for External Collaboration
-about: ""
+about: coDoc Support Request
 title: coDoc Support Request for External Collaboration
 labels: ''
 assignees: ''
