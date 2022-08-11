@@ -56,6 +56,7 @@ sap
 
 &nbsp;
 
+> If `SAP-docs` is the GitHub organization that you want to publish your project to, you can skip the remaining questions of this request form, because they are not relevant for documentation projects.
 
 ## Risk Assessment Information
 
