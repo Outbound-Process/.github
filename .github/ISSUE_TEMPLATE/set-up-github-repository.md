@@ -10,11 +10,13 @@ assignees: ''
 To create the private repository, some additional information is needed. Please fill out the form below (**please only edit it in the original post**, don't copy the content to a new comment or a new issue!) and make sure to stick to the [publishing process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) (starting with task F1) and to adhere to the [publishing guidelines](https://wiki.wdf.sap.corp/wiki/display/ospodocs/OSS+Publishing+Guidelines).
 
 ### 1. Project Name (mandatory)
-_The project name must have been approved beforehand by SAP Branding. A GitHub issue to initiate this request has already been assigned to you or was already completed. If you wish to publish your repository on SAP-samples then the project name approval process is not required. You can find additional information such as [hints and guidelines for project naming](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Hints+and+Guidelines+for+Project+Naming) and the [complete project creation process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) on our Wiki page._
+_The project name must have been approved beforehand by SAP Branding. A GitHub issue to initiate this request has already been assigned to you or was already completed. If you wish to publish your repository on SAP-samples or on SAP-docs then the project name approval process is not required. You can find additional information such as [hints and guidelines for project naming](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Hints+and+Guidelines+for+Project+Naming) and the [complete project creation process](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) on our Wiki page._
 
 ```
 {your answer}
 ```
+
+- [ ] The project name was reviewed by Anja Kretz (`SAP-docs` only).
 
 ### 2. Project Description (mandatory)
 _The description is the short text that describes your project in the GitHub project list. It also appears in the header in your project page. It should be 1-2 sentences, quickly explaining your project. Please use active, not passive, tense, and don't start with "This project" or "SAP built". Get right to the point!_
