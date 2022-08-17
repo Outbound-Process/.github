@@ -82,9 +82,9 @@ sap
 (Provide your answer here)
 ```
 
-### 2.5 Are you aware of any SAP patents, patent applications and/or invention disclosures (IDFs) that may potentially be related to the proposed contribution? (Y/N)
+### 2.5 Are you aware of any SAP patents, patent applications and/or invention disclosures (IDFs) that may potentially be related to the proposed contribution? *Please only answer with yes or no. If yes, we will get in touch with you to discuss details*
 ```
-*Please only answer with yes or no. If yes, we will get in touch with you to discuss details*
+(Provide your answer here)
 ```
 
 
@@ -114,7 +114,7 @@ sap
 
 
 ## 4. Data Protection (valid for both, SAP and third-party projects): Does the project process personal data?
-*If you answer yes, please get in touch with one of your data privacy/security contacts to check if the publication is OK. Please see the contact options here: https://wiki.one.int.sap/wiki/pages/viewpage.action?pageId=1290737197. If that list doesn’t work for you, please see the list of global contacts here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy  -->  "Organization and Responsibility"  -->  "SAP Product Security & Data Protection". For a definition of what personal data means see here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy%20Impact%20Assessment*
+*If you answer yes, please get in touch with one of your data privacy/security contacts to check if the publication is OK. Please see the contact options here: https://wiki.one.int.sap/wiki/pages/viewpage.action?pageId=1290737197. If that list doesn’t work for you, please see the list of global contacts here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy  -->  "Organization and Responsibility"  -->  "SAP Product Security & Data Protection". For a definition of what personal data means see here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy%20Impact%20Assessment* Please only answer with yes or no.
 ```
-Please only answer with yes or no.
+(Provide your answer here)
 ```
