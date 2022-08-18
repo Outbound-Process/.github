@@ -16,8 +16,6 @@ _The project name must have been approved beforehand by SAP Branding. A GitHub i
 {your answer}
 ```
 
-- [ ] The project name was reviewed by Anja Kretz (`SAP-docs` only).
-
 ### 2. Project Description (mandatory)
 _The description is the short text that describes your project in the GitHub project list. It also appears in the header in your project page. It should be 1-2 sentences, quickly explaining your project. Please use active, not passive, tense, and don't start with "This project" or "SAP built". Get right to the point!_
 
