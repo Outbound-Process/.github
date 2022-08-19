@@ -49,13 +49,14 @@ assignees: ''
 ```
 
 ###  1.8 On Which GitHub organisation do you want to publish your project (sap, sap-samples, sap-docs, etc.)
-_The GitHub organization that the repository will belong to. Our standard publishing organization is github.com/SAP. In this case, simply enter sap. If you want to publish the project on another organization, please enter the respective name. Please be aware that the organization needs to support our outbound process. See [our information about how to create an open source project](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) for currently supported organizations._
+_The GitHub organization that the repository will belong to. Our standard publishing organization is github.com/SAP. In this case, simply enter sap. If you want to publish the project on another organization, please enter the respective name. Please be aware that the organization needs to support our outbound process. See [our information about how to create an open source project](https://wiki.one.int.sap/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) for currently supported organizations._
 ```
 sap
 ```
 
 &nbsp;
 
+> If `SAP-docs` is the GitHub organization that you want to publish your project to, you can skip the remaining questions of this request form, because they are not relevant for documentation projects.
 
 ## Risk Assessment Information
 
@@ -81,9 +82,9 @@ sap
 (Provide your answer here)
 ```
 
-### 2.5 Are you aware of any SAP patents, patent applications and/or invention disclosures (IDFs) that may potentially be related to the proposed contribution? (Y/N)
+### 2.5 Are you aware of any SAP patents, patent applications and/or invention disclosures (IDFs) that may potentially be related to the proposed contribution? *Please only answer with yes or no. If yes, we will get in touch with you to discuss details*
 ```
-*Please only answer with yes or no. If yes, we will get in touch with you to discuss details*
+(Provide your answer here)
 ```
 
 
@@ -113,7 +114,7 @@ sap
 
 
 ## 4. Data Protection (valid for both, SAP and third-party projects): Does the project process personal data?
-*If you answer yes, please get in touch with one of your data privacy/security contacts to check if the publication is OK. Please see the contact options here: https://wiki.wdf.sap.corp/wiki/pages/viewpage.action?pageId=1290737197. If that list doesn’t work for you, please see the list of global contacts here: https://wiki.wdf.sap.corp/wiki/display/PSSEC/Privacy  -->  "Organization and Responsibility"  -->  "SAP Product Security & Data Protection". For a definition of what personal data means see here: https://wiki.wdf.sap.corp/wiki/display/PSSEC/Privacy%20Impact%20Assessment*
+*If you answer yes, please get in touch with one of your data privacy/security contacts to check if the publication is OK. Please see the contact options here: https://wiki.one.int.sap/wiki/pages/viewpage.action?pageId=1290737197. If that list doesn’t work for you, please see the list of global contacts here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy  -->  "Organization and Responsibility"  -->  "SAP Product Security & Data Protection". For a definition of what personal data means see here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy%20Impact%20Assessment* Please only answer with yes or no.
 ```
-Please only answer with yes or no.
+(Provide your answer here)
 ```
