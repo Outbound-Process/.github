@@ -56,7 +56,7 @@ sap
 
 &nbsp;
 
-> If `SAP-docs` is the GitHub organization that you want to publish your project to, you can skip the remaining questions of this request form, because they are not relevant for documentation projects.
+> If you wish to publish your project on `sap-docs` GitHub organization then you can skip the remaining questions of this request form, because they are not relevant for documentation projects. Also, for `sap-docs` GitHub organization the name of the repository will be clarified and finalized by the `sap-docs` responsible owner who are also assigned to this issue. You can read more about the repository naming guidelines [here](https://btpx.frontify.com/document/222742#/service-docs/service-names-and-descriptions/codoc-repo-names-guidelines-1).
 
 ## Risk Assessment Information
 
