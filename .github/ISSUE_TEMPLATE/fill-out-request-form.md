@@ -56,7 +56,9 @@ sap
 
 &nbsp;
 
-> If `SAP-docs` is the GitHub organization that you want to publish your project to, you can skip the remaining questions of this request form, because they are not relevant for documentation projects.
+> For projects publishing their project in the `sap-docs` organization:
+> * The name for your external repository on github.com only needs to be reviewed. Follow the [naming guidelines](https://btpx.frontify.com/document/222742#/service-docs/service-names-and-descriptions/codoc-repo-names-guidelines-1) to decide on a name, then add a comment with this name to this issue and ask @I501626 to review it. Document the decision in this issue by adding a comment.
+> * You can skip the remaining questions of this request form, because they are not relevant for documentation projects. 
 
 ## Risk Assessment Information
 
