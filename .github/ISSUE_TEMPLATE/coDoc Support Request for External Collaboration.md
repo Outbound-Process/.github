@@ -34,7 +34,7 @@ Please fill out the form to provide more details about your documentation delive
 * [ ] SAP DITA CCMS
 * [ ] GitHub (github.tools.sap or github.wdf.sap.corp)
 
-> If your documentation source is GitHub: In this case, we haven't reached the scale-out phase yet. The goal in 2022 is to have at least one pilot live where the documentation source is GitHub. However, we can't offer a solution for productive documentation by at least August, and we'll be very selective about pilots.
+> If your documentation source is GitHub: In this case, we haven't reached the scale-out phase yet. The goal in 2022 is to have at least one pilot live where the documentation source is GitHub. However, we can't offer a solution for productive documentation by end of September, and we'll be very selective about pilots.
 
 ### What target groups do you have in mind?
 
