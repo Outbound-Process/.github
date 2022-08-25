@@ -34,7 +34,7 @@ Please fill out the form to provide more details about your documentation delive
 * [ ] SAP DITA CCMS
 * [ ] GitHub (github.tools.sap or github.wdf.sap.corp)
 
-> If your documentation source is GitHub: In this case, we haven't reached the scale-out phase yet. The goal in 2022 is to have at least one pilot live where the documentation source is GitHub. However, we can’t offer a solution for productive documentation by at least August, and we'll be very selective about pilots.
+> If your documentation source is GitHub: In this case, we haven't reached the scale-out phase yet. The goal in 2022 is to have at least one pilot live where the documentation source is GitHub. However, we can't offer a solution for productive documentation by at least August, and we'll be very selective about pilots.
 
 ### What target groups do you have in mind?
 
@@ -46,7 +46,7 @@ Please fill out the form to provide more details about your documentation delive
 <Specify one or more target groups not listed above>
 ```
 
-> We focus on developers as target group, because it’s likely that developers use GitHub already in their daily work. Previous pilots with other target groups didn't get much feedback so it’s questionable if we should spend the effort for such deliverables.
+> We focus on developers as target group, because it's likely that developers use GitHub already in their daily work. Previous pilots with other target groups didn't get much feedback so it's questionable if we should spend the effort for such deliverables.
 
 ### What is the number of documentation deliverables (buildable maps) that could be suitable for external collaboration through github.com:
 
