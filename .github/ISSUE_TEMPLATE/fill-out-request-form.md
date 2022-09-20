@@ -106,7 +106,7 @@ sap
 ```
 
 ### 3.3 Does, or is this component capable of, relying on, calling out to, or using any underlying Operating System, component, FOSS, product, firmware, hardware, etc. to perform encryption for it? 
-*This applies to data at rest, or data in transit (TLS/SSL is an example of data in transit). If this is the case, please specify the encryption type and purpose like that: "Yes – the encryption being called out is <enter the encryption type> and it is used for the following purpose <Enter the functional description of the cryptography> (e.g.; authentication only, encryption of data, SSL/TLS etc.)"*
+*This applies to data at rest, or data in transit (TLS/SSL is an example of data in transit). If this is the case, please specify the encryption type and purpose like that: "Yes - the encryption being called out is <enter the encryption type> and it is used for the following purpose <Enter the functional description of the cryptography> (e.g.; authentication only, encryption of data, SSL/TLS etc.)"*
 
 ```
 (Provide your answer here)
@@ -116,7 +116,7 @@ sap
 
 
 ## 4. Data Protection (valid for both, SAP and third-party projects): Does the project process personal data?
-*If you answer yes, please get in touch with one of your data privacy/security contacts to check if the publication is OK. Please see the contact options here: https://wiki.one.int.sap/wiki/pages/viewpage.action?pageId=1290737197. If that list doesn’t work for you, please see the list of global contacts here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy  -->  "Organization and Responsibility"  -->  "SAP Product Security & Data Protection". For a definition of what personal data means see here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy%20Impact%20Assessment* Please only answer with yes or no.
+*If you answer yes, please get in touch with one of your data privacy/security contacts to check if the publication is OK. Please see the contact options here: https://wiki.one.int.sap/wiki/pages/viewpage.action?pageId=1290737197. If that list doesn't work for you, please see the list of global contacts here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy  -->  "Organization and Responsibility"  -->  "SAP Product Security & Data Protection". For a definition of what personal data means see here: https://wiki.one.int.sap/wiki/display/PSSEC/Privacy%20Impact%20Assessment* Please only answer with yes or no.
 ```
 (Provide your answer here)
 ```
