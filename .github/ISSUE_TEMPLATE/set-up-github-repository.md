@@ -32,7 +32,7 @@ _Topics are labels, like metadata tags, that create subject-based connections be
 ```
 
 ### 4. Team admins (mandatory) 
-_Please name at least two colleagues who will contribute, modify, and maintain the repository. They are also responsible for adding/removing team members and perform other administrative tasks. For example, if someone leaves SAP, they would be responsible for removing that person from the repository. The list must contain github.com usernames only that [have linked their account with their SAP identity and joined the SAP organizations on GitHub](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Self-Service+for+Joining+an+SAP+GitHub+Organization). Since your response is parsed by a bot, please make sure to only use:_ 
+_Please name **at least two colleagues** who will contribute, modify, and maintain the repository. They are also responsible for adding/removing team members and perform other administrative tasks. For example, if someone leaves SAP, they would be responsible for removing that person from the repository. The list must contain github.com usernames only that [have linked their account with their SAP identity and joined the SAP organizations on GitHub](https://wiki.wdf.sap.corp/wiki/display/ospodocs/Self-Service+for+Joining+an+SAP+GitHub+Organization). Since your response is parsed by a bot, please make sure to only use:_ 
 
 - the **github.com** username separated by a space or a newline
 - the **github.com** username is [linked with the respective SAP identity and joined the SAP organization](https://wiki.one.int.sap/wiki/display/ospodocs/Self-Service+for+Joining+an+SAP+GitHub+Organization)
