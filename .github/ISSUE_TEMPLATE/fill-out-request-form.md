@@ -49,7 +49,7 @@ assignees: ''
 ```
 
 ###  1.8 On Which GitHub organisation do you want to publish your project (sap, sap-samples, sap-docs, etc.)
-_The GitHub organization that the repository will belong to. Our standard publishing organization is github.com/SAP. In this case, simply enter sap. If you want to publish the project on another organization, please enter the respective name. Please be aware that the organization needs to support our outbound process. See [our information about how to create an open source project](https://wiki.one.int.sap/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) for currently supported organizations._
+_The GitHub organization that the repository will belong to. Our standard publishing organization is github.com/SAP. In this case, simply enter sap. If you want to publish the project on another organization, please enter the respective name without "...github.com/" in front of it. Please be aware that the organization needs to support our outbound process. See [our information about how to create an open source project](https://wiki.one.int.sap/wiki/display/ospodocs/Create+an+SAP+Open+Source+Project) for currently supported organizations._
 ```
 sap
 ```
