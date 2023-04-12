@@ -2,7 +2,7 @@
 name: Publication to OSS Store Visual Studio Marketplace
 about: OSPO asks NAAS to publish OSS project
 title: Publish to OSS Store Visual Studio Marketplace
-labels: ''
+labels: ["Requestor Action"]
 assignees: ''
 
 ---

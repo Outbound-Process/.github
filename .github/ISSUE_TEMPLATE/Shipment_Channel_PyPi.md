@@ -2,7 +2,7 @@
 name: Publication to OSS Store PyPi
 about: OSPO asks NAAS to publish OSS project
 title: Publish to OSS Store PyPi
-labels: ''
+labels: ["Requestor Action"]
 assignees: ''
 
 ---
