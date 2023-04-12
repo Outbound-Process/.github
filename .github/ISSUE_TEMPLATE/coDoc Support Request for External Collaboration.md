@@ -2,7 +2,7 @@
 name: coDoc Support Request for External Collaboration
 about: coDoc Support Request
 title: coDoc Support Request for External Collaboration
-labels: ''
+labels: ["Requestor Action"]
 assignees: ''
 
 ---

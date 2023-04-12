@@ -2,7 +2,7 @@
 name: Scan source code
 about: OSPO asks GTLC do to IP scanning
 title: Scan source code
-labels: ''
+labels: ["Requestor Action"]
 assignees: ''
 
 ---

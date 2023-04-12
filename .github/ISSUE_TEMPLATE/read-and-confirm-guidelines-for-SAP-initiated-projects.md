@@ -3,7 +3,7 @@ name: Read and confirm Guidelines for SAP initiated Projects
 about: OSPO asks the requestor to read and confirm the Guidelines for SAP initiated
   Projects
 title: Read and confirm Guidelines for SAP initiated Projects
-labels: ''
+labels: ["Requestor Action"]
 assignees: ''
 
 ---

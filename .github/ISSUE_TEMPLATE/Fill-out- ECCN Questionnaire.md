@@ -2,7 +2,7 @@
 name: Fill out ECCN Questionnaire
 about: Requestor is asked to fill out the ECCN Questionnaire
 title: Fill out ECCN Questionnaire
-labels: ''
+labels: ["Requestor Action"]
 assignees: ''
 
 ---
