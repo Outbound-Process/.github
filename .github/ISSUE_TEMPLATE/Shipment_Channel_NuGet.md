@@ -31,7 +31,7 @@ Once this has been done, please fill out below form:
 
 - [Pipeline Setup](https://go.sap.corp/OSS-Pipelines): [DEVELOPMENT PIPELINE WILL BE USED or NAAS PIPELINE REQUIRED]
 
-- If you have already a MoMa entry for your product for a different delivery Store, please provide it: [MOMA PRJOJECT LINK] 
+- If you have already a MoMa entry for your product for a different delivery Store, please provide it: [MOMA PROJECT LINK] 
 
 &nbsp;
 
