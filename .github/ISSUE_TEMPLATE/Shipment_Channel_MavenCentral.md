@@ -13,7 +13,7 @@ This is to request publication to OSS Store **Maven Central**.
 
 
 @Requestor: To be able to publish on [Maven Central](https://search.maven.org/), it is required to have a PPMS FOSS entry for your open source project.
-To get this entry, please use the [Open Source Tool](https://open-source.tools.sap.corp/) and enter the data of your open source project via "request new". In case there are any delays with the PPMS FOSS entry creation, please let us know here in this issue. We will reach out via e-mail to 'DL GTLC Compliance Enablement' for follow-ups.
+To get this entry, please [ask GTLC to create it for you](https://itsm.services.sap/sp?id=sc_cat_item&sys_id=5050b27a1bbe9910b0a620a6bb4bcbfe&sysparm_category=f68b2abe1b3a9910b0a620a6bb4bcb9a&catalog_id=04ce6e71db12d910034ca8ebd396199e). In case there are any delays with the PPMS FOSS entry creation, please let us know here in this issue. We will reach out via e-mail to 'DL GTLC Compliance Enablement' for follow-ups.
 
 Once this has been done, please fill out below form:
 
