@@ -2,7 +2,7 @@
 name: Get Project Name Approval
 about: Ask SAP Branding to approve your project name
 title: Get Project Name Approval
-labels: ["Requestor Action"]
+labels: Requestor Action
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Publication to OSS Store Maven Central
 about: OSPO asks NAAS to publish OSS project
 title: Publish to OSS Store Maven Central
-labels: ["Requestor Action"]
+labels: Requestor Action
 assignees: ''
 
 ---

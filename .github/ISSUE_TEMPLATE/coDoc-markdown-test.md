@@ -2,7 +2,7 @@
 name: Test Markdown Output
 about: Requestor is asked test markdown version of documentation
 title: Test Markdown Output
-labels: ["Requestor Action"]
+labels: Requestor Action
 assignees: ''
 
 ---

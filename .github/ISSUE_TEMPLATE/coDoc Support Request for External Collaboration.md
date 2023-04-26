@@ -2,7 +2,7 @@
 name: coDoc Support Request for External Collaboration
 about: coDoc Support Request
 title: coDoc Support Request for External Collaboration
-labels: ["Requestor Action"]
+labels: Requestor Action
 assignees: ''
 
 ---
@@ -14,7 +14,7 @@ The coDoc project enables collaboration with **external** developers on github.c
 * Service documentation from the BTP area
 * Services with a high customer adoption or completely new services
 
-We offer this issue template for both, service documentation from the BTP area, and for other documentation. If capacity allows, coDoc also supports developer documentation from other areas.      
+We offer this issue template for both, service documentation from the BTP area, and for other documentation. If capacity allows, coDoc also supports developer documentation from other areas.
 
 ## Request Form
 

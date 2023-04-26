@@ -2,7 +2,7 @@
 name: Publication to OSS Store npm
 about: OSPO asks NAAS to publish OSS project
 title: Publish to OSS Store npm
-labels: ["Requestor Action"]
+labels: Requestor Action
 assignees: ''
 
 ---

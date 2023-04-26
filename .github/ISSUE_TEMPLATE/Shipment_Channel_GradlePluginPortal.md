@@ -2,7 +2,7 @@
 name: Publication to OSS Gradle Plugin Portal
 about: OSPO asks NAAS to publish OSS project
 title: Publish to OSS Store Gradle Plugin Portal
-labels: ["Requestor Action"]
+labels: Requestor Action
 assignees: ''
 
 ---
