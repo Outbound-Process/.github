@@ -36,6 +36,6 @@ Once this has been done, please fill out below form:
 &nbsp;
 
 
-@naas-mob-extrepo: Please create the respective store entry in [MoMa](https://moma.mo.sap.corp)
+@naas-mob-extrepo-serviceuser: Please create the respective store entry in [MoMa](https://moma.mo.sap.corp)
 
 Thank you!
