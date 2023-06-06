@@ -1,14 +1,12 @@
 ---
 name: Get Project Name Approval
-about: Ask SAP Branding to approve your project name
+about: Provide proposals for a project name
 title: Get Project Name Approval
 labels: Requestor Action
 assignees: ''
 
 ---
 
-Create a [request for SAP Branding](https://www.sapbrandtools.com/naming-center/#/create-request) for approving your project name. Please see additional information about naming of open source projects [here](https://wiki.one.int.sap/wiki/display/ospodocs/Hints+and+Guidelines+for+Project+Naming).
+Please see the [information about naming of open source projects](https://wiki.one.int.sap/wiki/display/ospodocs/Hints+and+Guidelines+for+Project+Naming) and **provide 1-3 proposals for a project name**.
 
-**Normally, i.e. if you stick to the [hints and guidelines for project naming](https://wiki.one.int.sap/wiki/display/ospodocs/Hints+and+Guidelines+for+Project+Naming), the approval of a name for an open source project takes a few days. The 3-5 weeks that are mentioned on the Brand Tools request form are for general name requests.**
-
-Please document the outcome of the branding request in this issue and also add the URL from the Branding Tool for the approved name as a comment in this issue.
+An OSPO colleague will reach out to you to discuss the next steps after you have provided your examples.
