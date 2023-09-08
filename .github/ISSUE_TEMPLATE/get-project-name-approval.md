@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
-Please see the [information about naming of open source projects](https://wiki.one.int.sap/wiki/display/ospodocs/Hints+and+Guidelines+for+Project+Naming) and **provide 1-3 proposals for a project name**.
+@Requestor: Please see the [information about naming of open source projects](https://wiki.one.int.sap/wiki/display/ospodocs/Hints+and+Guidelines+for+Project+Naming) and **provide 1-3 proposals for a project name**.
 
 An OSPO colleague will reach out to you to discuss the next steps after you have provided your examples.
+
+@Processor: Please mention `@oss-project-name-legal-serviceuser` if evaluations from SAP Trademarks are required.
