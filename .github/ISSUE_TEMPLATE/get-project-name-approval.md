@@ -11,4 +11,4 @@ assignees: ''
 
 An OSPO colleague will reach out to you to discuss the next steps after you have provided your examples.
 
-@Processor: Please mention `@oss-project-name-legal-serviceuser` if evaluations from SAP Trademarks are required.
+@Processor: Please assign `@oss-project-name-legal-serviceuser` if evaluations from SAP Trademarks are required.
