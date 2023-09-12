@@ -9,6 +9,8 @@ assignees: ''
 
 @Requestor: Please fill out this ECCN Questionnaire. After completion, please send an e-mail to [SAP Export Control Classification](mailto:ExportControlClassification@sap.com) with a link to this questionnaire.
 
+@Processor: For additional guidance, refer to the [How to Guide for the ECCN Questionnaire](https://github.tools.sap/OSPO/How-to/blob/master/Content/ECCNQuestionnaire.md).
+
 # Export Control Classification Questionnaire for Outbound Open Source Contributions
 
 Uploading software to an External Repository as part of the Outbound Open Source process is considered an export. Therefore, export control laws and regulations may apply.  
