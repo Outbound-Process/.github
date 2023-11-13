@@ -35,7 +35,6 @@ Once this has been done, please fill out below form:
 
 &nbsp;
 
-
-@naas-mob-extrepo-serviceuser: Please create the respective store entry in [MoMa](https://moma.mo.sap.corp)
+Please assign 'naas-mob-extrepo-serviceuser' after you received the PPMS FOSS entry, so the store entry in [MoMa](https://moma.mo.sap.corp) can be created.
 
 Thank you!
