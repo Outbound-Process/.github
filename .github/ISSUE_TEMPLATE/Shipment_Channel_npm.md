@@ -33,8 +33,6 @@ Once this has been done, please fill out below form:
 
 - If you have already a MoMa entry for your product for a different delivery Store, please provide it: [MOMA PROJECT LINK] 
 
-&nbsp;
-
 Please assign 'naas-mob-extrepo-serviceuser' after you received the PPMS FOSS entry, so the store entry in [MoMa](https://moma.mo.sap.corp) can be created.
 
 Thank you!
