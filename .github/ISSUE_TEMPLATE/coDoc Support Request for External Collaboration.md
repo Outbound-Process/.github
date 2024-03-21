@@ -4,17 +4,8 @@ about: coDoc Support Request
 title: coDoc Support Request for External Collaboration
 labels: Requestor Action
 assignees: ''
-
 ---
-Dear colleague,
 
-The coDoc project enables collaboration with **external** developers on github.com. The project wants to scale-out the approach in 2022, with a focus on:
-
-* Developer documentation
-* Service documentation from the BTP area
-* Services with a high customer adoption or completely new services
-
-We offer this issue template for both, service documentation from the BTP area, and for other documentation. If capacity allows, coDoc also supports developer documentation from other areas.
 
 ## Request Form
 
@@ -34,7 +25,7 @@ Please fill out the form to provide more details about your documentation delive
 * [ ] SAP DITA CCMS
 * [ ] GitHub (github.tools.sap or github.wdf.sap.corp)
 
-> If your documentation source is GitHub: In this case, we haven't reached the scale-out phase yet. The goal in 2022 is to have at least one pilot live where the documentation source is GitHub. However, we can't offer a solution for productive documentation by end of September, and we'll be very selective about pilots.
+> If your documentation source is GitHub, we cannot offer any support for coDoc.
 
 ### What target groups do you have in mind?
 
@@ -63,18 +54,14 @@ Please fill out the form to provide more details about your documentation delive
 ### What delivery model do you use (SAP DITA CCMS)?
 
 * [ ] push-to-ship
-* [ ] sprint-based
+* [ ] sprint-based _including_ container cloning
+* [ ] sprint-based _without_ container cloning (e.g., your container stays always open)
 
 ### How many versions of your HTML deliverables do you keep on SAP Help Portal?
 
 ```
 <For example, if you always overwrite one external version, put "1" here.>
 ```
-
-### Do you have o2o links to other deliverables?
-
-* [ ] yes
-* [ ] no
 
 ### What are the main contacts?
 
