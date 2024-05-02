@@ -166,14 +166,14 @@ If Yes, please note **what** functions (e.g. TLS/SSL, etc.) are used and for **w
 - [ ] **PRICING:** If being sold, price and information about the main functionality of the product ARE available before purchase without the need to consult SAP of any of SAP’s suppliers
 - [ ] None of the above
 
-### 7. Is the PV/CV/FOSS a cryptographic library, development kit or toolkit (SDK) such that an END-USER(S) can MAKE CHOICES about the type of encryption used in the applications or HOW to implement the encryption? Check all that apply
+### 7. Is the Product/Component/FOSS/pURL a cryptographic library, cryptographic development kit or cryptographic toolkit (SDK) such that an END-USER(S) can MAKE CHOICES about the type of encryption used in the applications or HOW to implement the encryption? Check all that apply
 
-- [ ] **YES, and this is a Cryptographic Library** (e.g. Common Crypto-lib 8, Bouncy Castle, Open SSL, BSAFE)
-- [ ] **YES, and this is a Cryptographic Development Kit/Toolkit (SDK)** (e.g. AWS encryption SDK)
-- [ ] **NO:** The End Users cannot make choices about the type of encryption used in the applications or HOW to implement the encryption
-- [ ] **Not Applicable:** None of the above (No crypto is either included or its own implementation)
+- [ ] **YES this is a Cryptographic Library:** (e.g. Common Crypto-lib 8, Bouncy Castle, Open SSL, BSAFE) and the user CAN make choices about the type of encryption or how to implement the encryption
+- [ ] **YES this is a Cryptographic Development Kit/Toolkit (SDK):** (e.g. AWS encryption SDK) and the user CAN make choices about the type of encryption or how to implement the encryption
+- [ ] **YES this is a Cryptographic Library or Cryptographic Development Kit/Toolkit (SDK)** ), but the user CANNOT make choices about the type of encryption or how to implement the encryption
+- [ ] **Not Applicable:** None of the above
 
-If either/both the first and second are checked yes: Explain what this PV/CV/FOSS _is capable_ of doing.
+If one of the questions is answered with yes: Explain what this PV/CV/FOSS _is capable_ of doing.
 ```
 (Provide your answer here)
 ```
